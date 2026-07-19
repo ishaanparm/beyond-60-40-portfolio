@@ -4,7 +4,7 @@ Independent investment research working paper by Ishaan Parmar
 
 ## Research Question
 
-Can a transparent, long-only, regime-sensitive multi asset portfolio improve downside protection and risk-adjusted performance relative to a traditional 60/40 portfolio?
+Can a transparent, long-only, regime sensitive multi asset portfolio improve downside protection and risk-adjusted performance relative to a traditional 60/40 portfolio?
 
 ## Main Findings
 
