@@ -1,16 +1,16 @@
 # Beyond the 60/40 Portfolio
 
-Independent investment research working paper by Ishaan Parmar
+Independent investment research working paper by Ishaan Parmar.
 
 ## Research Question
 
-Can a transparent, long-only, regime sensitive multi asset portfolio improve downside protection and risk-adjusted performance relative to a traditional 60/40 portfolio?
+Can a transparent, long only, regime sensitive multi-asset portfolio improve downside protection and risk-adjusted performance relative to a traditional 60/40 portfolio?
 
 ## Main Findings
 
 - The traditional 60/40 portfolio produced the highest nominal and inflation adjusted growth.
-- Constrained mean-variance optimization produced the highest Sharpe and Sortino ratios.
-- Minimum CVaR allocation provided the strongest tail risk protection but substantially reduced growth.
+- Constrained mean variance optimization produced the highest Sharpe and Sortino ratios.
+- Minimum-CVaR allocation provided the strongest tail-risk protection but substantially reduced growth.
 - The regime-sensitive strategy reduced downside risk but failed the precommitted overall success standard.
 
 ## Sample and Methodology
@@ -19,9 +19,9 @@ Can a transparent, long-only, regime sensitive multi asset portfolio improve dow
 - Out-of-sample test: January 2013 through December 2025
 - Seven ETF proxies: SPY, VEA, IEF, LQD, VNQ, GLD, and BIL
 - Quarterly rebalancing
-- Long only, unlevered portfolios
+- Long-only, unlevered portfolios
 - Transaction costs and robustness tests included
-- Lagged inflation and monetary policy signals used to avoid look ahead bias
+- Lagged inflation and monetary-policy signals used to avoid look-ahead bias
 
 ## Repository Structure
 
@@ -30,12 +30,12 @@ Can a transparent, long-only, regime sensitive multi asset portfolio improve dow
 - `outputs/tables/` — final tables and diagnostics
 - `outputs/figures/` — final charts
 - `metadata/` — sanitized data-retrieval information
-- `DATA_SOURCES.md` — source and transformation documentation
+- `DATA_SOURCES.md` — data-source and transformation documentation
 - `requirements.txt` — pinned Python environment
 
-## Running the Analysis
+## Python Environment
 
-Install the required packages:
+Install the required packages with:
 
 bash
 python -m pip install -r requirements.txt
