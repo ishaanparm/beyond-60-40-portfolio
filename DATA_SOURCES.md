@@ -73,3 +73,30 @@ data/raw/etf_daily_adjusted_prices.csv
 data/raw/fred_macroeconomic_data.csv
 data/processed/monthly_research_dataset.csv
 data/processed/validated_monthly_dataset.csv
+
+```
+
+The public repository includes the data collection and validation scripts,
+sanitized retrieval metadata, derived portfolio results, final tables, and
+figures.
+
+## Authoritative Results
+
+Files beginning with `fair_comparison_` contain the authoritative six portfolio
+results reported in the working paper.
+
+Files beginning with `baseline_` and `optimized_` are intermediate audit
+outputs.
+
+## Software Environment
+
+- pandas 3.0.3
+- NumPy 2.5.1
+- SciPy 1.18.0
+- matplotlib 3.11.0
+- yfinance 1.5.1
+- pandas-datareader 0.11.1
+- CVXPY 1.9.2
+- openpyxl 3.1.5
+
+The complete dependency environment is recorded in `requirements.txt`.
