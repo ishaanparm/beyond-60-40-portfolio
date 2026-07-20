@@ -100,3 +100,16 @@ outputs.
 - openpyxl 3.1.5
 
 The complete dependency environment is recorded in `requirements.txt`.
+
+
+- All six analysis scripts are present.      
+- Both final paper files exist; the PDF contains 20 pages.  
+- The authoritative six-portfolio monthly results are present. 
+- The final performance workbook and both final figures are present.   
+- The retrieval log uses relative paths and records the timestamp and package versions. 
+- `.gitignore` correctly excludes virtual environments and private dataset CSVs. 
+- The code and research-material license is present and correctly scoped. 
+- I directly checked all four private raw/processed dataset paths; none is publicly uploaded.
+- Searches found no `password`, `api_key`, `secret`, `token`, or `C:\Users` matches.
+
+
