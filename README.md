@@ -37,5 +37,6 @@ Can a transparent, long only, regime sensitive multi-asset portfolio improve dow
 
 Install the required packages with:
 
-bash
+```bash
 python -m pip install -r requirements.txt
+```
