@@ -2,7 +2,7 @@ Beyond the 60/40 Portfolio
 Data Validation Report
 
 INPUT DATA
-Input file: D:\BARUCH\Research paper\New folder\data\processed\monthly_research_dataset.csv
+Input file: data/processed/monthly_research_dataset.csv
 Original rows: 228
 Original first date: 2007-01-31
 Original last date: 2025-12-31
@@ -41,7 +41,7 @@ RECESSION INDICATOR
 Observed values: [np.int64(0), np.int64(1)]
 
 OUTPUT FILE
-D:\BARUCH\Research paper\New folder\data\processed\validated_monthly_dataset.csv
+data/processed/validated_monthly_dataset.csv
 
 VALIDATION RESULT
 The dataset passed the required structural, date, price,
