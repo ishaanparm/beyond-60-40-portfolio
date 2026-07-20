@@ -1,0 +1,50 @@
+Beyond the 60/40 Portfolio
+Data Validation Report
+
+INPUT DATA
+Input file: D:\BARUCH\Research paper\New folder\data\processed\monthly_research_dataset.csv
+Original rows: 228
+Original first date: 2007-01-31
+Original last date: 2025-12-31
+
+DATE VALIDATION
+Duplicate dates: 0
+Missing calendar months: 0
+Missing calendar-month dates: None
+Non-month-end dates: 0
+Non-month-end date values: None
+
+COLUMN VALIDATION
+Expected columns: 19
+Missing required columns: []
+Non-numeric required columns: []
+
+PRICE AND RETURN VALIDATION
+Invalid zero or negative prices: 0
+Impossible returns of -100% or lower: 0
+Returns exceeding 50% in absolute value: 0
+
+COMMON SAMPLE
+First month with all seven ETF returns: 2007-08-31
+Validated dataset rows: 221
+Validated dataset end date: 2025-12-31
+First row with all model fields available: 2008-01-31
+
+MACROECONOMIC MISSING DATES
+cpi_index: 2025-10-31
+fedfunds: None
+nber_recession: None
+infl_yoy: 2007-08-31, 2007-09-30, 2007-10-31, 2007-11-30, 2007-12-31, 2025-10-31
+policy_6m_change: None
+
+RECESSION INDICATOR
+Observed values: [np.int64(0), np.int64(1)]
+
+OUTPUT FILE
+D:\BARUCH\Research paper\New folder\data\processed\validated_monthly_dataset.csv
+
+VALIDATION RESULT
+The dataset passed the required structural, date, price,
+return, and recession-indicator checks.
+Missing macroeconomic values were documented but not
+filled or replaced.

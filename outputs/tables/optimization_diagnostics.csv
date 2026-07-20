@@ -1,0 +1,157 @@
+date,model_key,Portfolio,window_start,window_end,observations,objective_value,solver_message
+2013-01-31,equal_risk,Equal Risk Contribution,2008-01-31,2012-12-31,60,0.02399299964785305,Optimization terminated successfully
+2013-01-31,mean_variance,Mean-Variance (Max Sharpe),2008-01-31,2012-12-31,60,-0.3390414944140601,Optimization terminated successfully
+2013-01-31,minimum_cvar,Minimum CVaR,2008-01-31,2012-12-31,60,0.017698616935111863,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2013-04-30,equal_risk,Equal Risk Contribution,2008-04-30,2013-03-31,60,0.02403147497819337,Optimization terminated successfully
+2013-04-30,mean_variance,Mean-Variance (Max Sharpe),2008-04-30,2013-03-31,60,-0.31945825874233247,Optimization terminated successfully
+2013-04-30,minimum_cvar,Minimum CVaR,2008-04-30,2013-03-31,60,0.017698616935111863,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2013-07-31,equal_risk,Equal Risk Contribution,2008-07-31,2013-06-30,60,0.02392087193953487,Optimization terminated successfully
+2013-07-31,mean_variance,Mean-Variance (Max Sharpe),2008-07-31,2013-06-30,60,-0.3035592173441404,Optimization terminated successfully
+2013-07-31,minimum_cvar,Minimum CVaR,2008-07-31,2013-06-30,60,0.019162969233624032,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2013-10-31,equal_risk,Equal Risk Contribution,2008-10-31,2013-09-30,60,0.023354347322165264,Optimization terminated successfully
+2013-10-31,mean_variance,Mean-Variance (Max Sharpe),2008-10-31,2013-09-30,60,-0.3568214151045349,Optimization terminated successfully
+2013-10-31,minimum_cvar,Minimum CVaR,2008-10-31,2013-09-30,60,0.018200065977399954,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2014-01-31,equal_risk,Equal Risk Contribution,2009-01-31,2013-12-31,60,0.023922688236400105,Optimization terminated successfully
+2014-01-31,mean_variance,Mean-Variance (Max Sharpe),2009-01-31,2013-12-31,60,-0.4104760781288855,Optimization terminated successfully
+2014-01-31,minimum_cvar,Minimum CVaR,2009-01-31,2013-12-31,60,0.018200065977399957,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2014-04-30,equal_risk,Equal Risk Contribution,2009-04-30,2014-03-31,60,0.023891916967810983,Optimization terminated successfully
+2014-04-30,mean_variance,Mean-Variance (Max Sharpe),2009-04-30,2014-03-31,60,-0.6268814777315164,Optimization terminated successfully
+2014-04-30,minimum_cvar,Minimum CVaR,2009-04-30,2014-03-31,60,0.011652752470333143,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2014-07-31,equal_risk,Equal Risk Contribution,2009-07-31,2014-06-30,60,0.023878907655404506,Optimization terminated successfully
+2014-07-31,mean_variance,Mean-Variance (Max Sharpe),2009-07-31,2014-06-30,60,-0.6393096419688545,Optimization terminated successfully
+2014-07-31,minimum_cvar,Minimum CVaR,2009-07-31,2014-06-30,60,0.01165275247033314,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2014-10-31,equal_risk,Equal Risk Contribution,2009-10-31,2014-09-30,60,0.023874657692674973,Optimization terminated successfully
+2014-10-31,mean_variance,Mean-Variance (Max Sharpe),2009-10-31,2014-09-30,60,-0.5583084500529655,Optimization terminated successfully
+2014-10-31,minimum_cvar,Minimum CVaR,2009-10-31,2014-09-30,60,0.011652752470333138,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2015-01-31,equal_risk,Equal Risk Contribution,2010-01-31,2014-12-31,60,0.02385259571442762,Optimization terminated successfully
+2015-01-31,mean_variance,Mean-Variance (Max Sharpe),2010-01-31,2014-12-31,60,-0.6545194389465989,Optimization terminated successfully
+2015-01-31,minimum_cvar,Minimum CVaR,2010-01-31,2014-12-31,60,0.01055491698092914,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2015-04-30,equal_risk,Equal Risk Contribution,2010-04-30,2015-03-31,60,0.02385865962596895,Optimization terminated successfully
+2015-04-30,mean_variance,Mean-Variance (Max Sharpe),2010-04-30,2015-03-31,60,-0.6378872184495737,Optimization terminated successfully
+2015-04-30,minimum_cvar,Minimum CVaR,2010-04-30,2015-03-31,60,0.01055491698092914,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2015-07-31,equal_risk,Equal Risk Contribution,2010-07-31,2015-06-30,60,0.023838889263896303,Optimization terminated successfully
+2015-07-31,mean_variance,Mean-Variance (Max Sharpe),2010-07-31,2015-06-30,60,-0.5932386224340542,Optimization terminated successfully
+2015-07-31,minimum_cvar,Minimum CVaR,2010-07-31,2015-06-30,60,0.011701066696274907,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2015-10-31,equal_risk,Equal Risk Contribution,2010-10-31,2015-09-30,60,0.02383059465395172,Optimization terminated successfully
+2015-10-31,mean_variance,Mean-Variance (Max Sharpe),2010-10-31,2015-09-30,60,-0.5039915922087722,Optimization terminated successfully
+2015-10-31,minimum_cvar,Minimum CVaR,2010-10-31,2015-09-30,60,0.011701066696274907,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2016-01-31,equal_risk,Equal Risk Contribution,2011-01-31,2015-12-31,60,0.023837333870216165,Optimization terminated successfully
+2016-01-31,mean_variance,Mean-Variance (Max Sharpe),2011-01-31,2015-12-31,60,-0.49757641570817795,Optimization terminated successfully
+2016-01-31,minimum_cvar,Minimum CVaR,2011-01-31,2015-12-31,60,0.011701066696274914,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2016-04-30,equal_risk,Equal Risk Contribution,2011-04-30,2016-03-31,60,0.023834574136045835,Optimization terminated successfully
+2016-04-30,mean_variance,Mean-Variance (Max Sharpe),2011-04-30,2016-03-31,60,-0.5186801808853903,Optimization terminated successfully
+2016-04-30,minimum_cvar,Minimum CVaR,2011-04-30,2016-03-31,60,0.011701066696274914,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2016-07-31,equal_risk,Equal Risk Contribution,2011-07-31,2016-06-30,60,0.02384043017624113,Optimization terminated successfully
+2016-07-31,mean_variance,Mean-Variance (Max Sharpe),2011-07-31,2016-06-30,60,-0.527772963814119,Optimization terminated successfully
+2016-07-31,minimum_cvar,Minimum CVaR,2011-07-31,2016-06-30,60,0.011701066696274914,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2016-10-31,equal_risk,Equal Risk Contribution,2011-10-31,2016-09-30,60,0.023844938847058877,Optimization terminated successfully
+2016-10-31,mean_variance,Mean-Variance (Max Sharpe),2011-10-31,2016-09-30,60,-0.5294446318302374,Optimization terminated successfully
+2016-10-31,minimum_cvar,Minimum CVaR,2011-10-31,2016-09-30,60,0.011701066696274909,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2017-01-31,equal_risk,Equal Risk Contribution,2012-01-31,2016-12-31,60,0.023815753877507916,Optimization terminated successfully
+2017-01-31,mean_variance,Mean-Variance (Max Sharpe),2012-01-31,2016-12-31,60,-0.45712201403953834,Optimization terminated successfully
+2017-01-31,minimum_cvar,Minimum CVaR,2012-01-31,2016-12-31,60,0.011851108576924898,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2017-04-30,equal_risk,Equal Risk Contribution,2012-04-30,2017-03-31,60,0.023614781251432636,Optimization terminated successfully
+2017-04-30,mean_variance,Mean-Variance (Max Sharpe),2012-04-30,2017-03-31,60,-0.43971934459289314,Optimization terminated successfully
+2017-04-30,minimum_cvar,Minimum CVaR,2012-04-30,2017-03-31,60,0.011851108576924906,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2017-07-31,equal_risk,Equal Risk Contribution,2012-07-31,2017-06-30,60,0.02342962908138642,Optimization terminated successfully
+2017-07-31,mean_variance,Mean-Variance (Max Sharpe),2012-07-31,2017-06-30,60,-0.4635491446057232,Optimization terminated successfully
+2017-07-31,minimum_cvar,Minimum CVaR,2012-07-31,2017-06-30,60,0.011851108576924901,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2017-10-31,equal_risk,Equal Risk Contribution,2012-10-31,2017-09-30,60,0.023308201862167213,Optimization terminated successfully
+2017-10-31,mean_variance,Mean-Variance (Max Sharpe),2012-10-31,2017-09-30,60,-0.4484843157331808,Optimization terminated successfully
+2017-10-31,minimum_cvar,Minimum CVaR,2012-10-31,2017-09-30,60,0.011851108576924903,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2018-01-31,equal_risk,Equal Risk Contribution,2013-01-31,2017-12-31,60,0.02319777470270945,Optimization terminated successfully
+2018-01-31,mean_variance,Mean-Variance (Max Sharpe),2013-01-31,2017-12-31,60,-0.49435488881700984,Optimization terminated successfully
+2018-01-31,minimum_cvar,Minimum CVaR,2013-01-31,2017-12-31,60,0.0118511085769249,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2018-04-30,equal_risk,Equal Risk Contribution,2013-04-30,2018-03-31,60,0.023477476231885647,Optimization terminated successfully
+2018-04-30,mean_variance,Mean-Variance (Max Sharpe),2013-04-30,2018-03-31,60,-0.40023785199183093,Optimization terminated successfully
+2018-04-30,minimum_cvar,Minimum CVaR,2013-04-30,2018-03-31,60,0.0118511085769249,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2018-07-31,equal_risk,Equal Risk Contribution,2013-07-31,2018-06-30,60,0.023811481354274164,Optimization terminated successfully
+2018-07-31,mean_variance,Mean-Variance (Max Sharpe),2013-07-31,2018-06-30,60,-0.42741078983444547,Optimization terminated successfully
+2018-07-31,minimum_cvar,Minimum CVaR,2013-07-31,2018-06-30,60,0.010796904269294097,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2018-10-31,equal_risk,Equal Risk Contribution,2013-10-31,2018-09-30,60,0.023537373494995493,Optimization terminated successfully
+2018-10-31,mean_variance,Mean-Variance (Max Sharpe),2013-10-31,2018-09-30,60,-0.45096392321047507,Optimization terminated successfully
+2018-10-31,minimum_cvar,Minimum CVaR,2013-10-31,2018-09-30,60,0.010768131894130267,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2019-01-31,equal_risk,Equal Risk Contribution,2014-01-31,2018-12-31,60,0.02387083346731177,Optimization terminated successfully
+2019-01-31,mean_variance,Mean-Variance (Max Sharpe),2014-01-31,2018-12-31,60,-0.31706751880858447,Optimization terminated successfully
+2019-01-31,minimum_cvar,Minimum CVaR,2014-01-31,2018-12-31,60,0.011666375120116295,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2019-04-30,equal_risk,Equal Risk Contribution,2014-04-30,2019-03-31,60,0.02296960808381634,Optimization terminated successfully
+2019-04-30,mean_variance,Mean-Variance (Max Sharpe),2014-04-30,2019-03-31,60,-0.3458987037403284,Optimization terminated successfully
+2019-04-30,minimum_cvar,Minimum CVaR,2014-04-30,2019-03-31,60,0.011666375120116295,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2019-07-31,equal_risk,Equal Risk Contribution,2014-07-31,2019-06-30,60,0.022135244116422776,Optimization terminated successfully
+2019-07-31,mean_variance,Mean-Variance (Max Sharpe),2014-07-31,2019-06-30,60,-0.3341471553131399,Optimization terminated successfully
+2019-07-31,minimum_cvar,Minimum CVaR,2014-07-31,2019-06-30,60,0.011666375120116285,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2019-10-31,equal_risk,Equal Risk Contribution,2014-10-31,2019-09-30,60,0.022206398191373575,Optimization terminated successfully
+2019-10-31,mean_variance,Mean-Variance (Max Sharpe),2014-10-31,2019-09-30,60,-0.35882847561391434,Optimization terminated successfully
+2019-10-31,minimum_cvar,Minimum CVaR,2014-10-31,2019-09-30,60,0.011666375120116295,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2020-01-31,equal_risk,Equal Risk Contribution,2015-01-31,2019-12-31,60,0.021952882971655,Optimization terminated successfully
+2020-01-31,mean_variance,Mean-Variance (Max Sharpe),2015-01-31,2019-12-31,60,-0.34390820378021414,Optimization terminated successfully
+2020-01-31,minimum_cvar,Minimum CVaR,2015-01-31,2019-12-31,60,0.011666375120116295,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2020-04-30,equal_risk,Equal Risk Contribution,2015-04-30,2020-03-31,60,0.022410920460418336,Optimization terminated successfully
+2020-04-30,mean_variance,Mean-Variance (Max Sharpe),2015-04-30,2020-03-31,60,-0.2933524510680641,Optimization terminated successfully
+2020-04-30,minimum_cvar,Minimum CVaR,2015-04-30,2020-03-31,60,0.011666375120116295,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2020-07-31,equal_risk,Equal Risk Contribution,2015-07-31,2020-06-30,60,0.023858395683029786,Optimization terminated successfully
+2020-07-31,mean_variance,Mean-Variance (Max Sharpe),2015-07-31,2020-06-30,60,-0.3890816251725542,Optimization terminated successfully
+2020-07-31,minimum_cvar,Minimum CVaR,2015-07-31,2020-06-30,60,0.011640601540417968,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2020-10-31,equal_risk,Equal Risk Contribution,2015-10-31,2020-09-30,60,0.023926549494369717,Optimization terminated successfully
+2020-10-31,mean_variance,Mean-Variance (Max Sharpe),2015-10-31,2020-09-30,60,-0.42395513586925226,Optimization terminated successfully
+2020-10-31,minimum_cvar,Minimum CVaR,2015-10-31,2020-09-30,60,0.011579302568873639,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2021-01-31,equal_risk,Equal Risk Contribution,2016-01-31,2020-12-31,60,0.023967847624112092,Optimization terminated successfully
+2021-01-31,mean_variance,Mean-Variance (Max Sharpe),2016-01-31,2020-12-31,60,-0.4322902919997591,Optimization terminated successfully
+2021-01-31,minimum_cvar,Minimum CVaR,2016-01-31,2020-12-31,60,0.011596036367470723,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2021-04-30,equal_risk,Equal Risk Contribution,2016-04-30,2021-03-31,60,0.023823257276017574,Optimization terminated successfully
+2021-04-30,mean_variance,Mean-Variance (Max Sharpe),2016-04-30,2021-03-31,60,-0.36053829309405494,Optimization terminated successfully
+2021-04-30,minimum_cvar,Minimum CVaR,2016-04-30,2021-03-31,60,0.011596036367470725,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2021-07-31,equal_risk,Equal Risk Contribution,2016-07-31,2021-06-30,60,0.023815529208623547,Optimization terminated successfully
+2021-07-31,mean_variance,Mean-Variance (Max Sharpe),2016-07-31,2021-06-30,60,-0.37934920489005,Optimization terminated successfully
+2021-07-31,minimum_cvar,Minimum CVaR,2016-07-31,2021-06-30,60,0.011596036367470725,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2021-10-31,equal_risk,Equal Risk Contribution,2016-10-31,2021-09-30,60,0.023821689279043275,Optimization terminated successfully
+2021-10-31,mean_variance,Mean-Variance (Max Sharpe),2016-10-31,2021-09-30,60,-0.3574327167997807,Optimization terminated successfully
+2021-10-31,minimum_cvar,Minimum CVaR,2016-10-31,2021-09-30,60,0.012836674089164824,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2022-01-31,equal_risk,Equal Risk Contribution,2017-01-31,2021-12-31,60,0.024019195343882586,Optimization terminated successfully
+2022-01-31,mean_variance,Mean-Variance (Max Sharpe),2017-01-31,2021-12-31,60,-0.43871441421459534,Optimization terminated successfully
+2022-01-31,minimum_cvar,Minimum CVaR,2017-01-31,2021-12-31,60,0.010265054991485263,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2022-04-30,equal_risk,Equal Risk Contribution,2017-04-30,2022-03-31,60,0.02384737735799039,Optimization terminated successfully
+2022-04-30,mean_variance,Mean-Variance (Max Sharpe),2017-04-30,2022-03-31,60,-0.33538077787274784,Optimization terminated successfully
+2022-04-30,minimum_cvar,Minimum CVaR,2017-04-30,2022-03-31,60,0.013430480386051163,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2022-07-31,equal_risk,Equal Risk Contribution,2017-07-31,2022-06-30,60,0.023331569883025857,Optimization terminated successfully
+2022-07-31,mean_variance,Mean-Variance (Max Sharpe),2017-07-31,2022-06-30,60,-0.2298850681839191,Optimization terminated successfully
+2022-07-31,minimum_cvar,Minimum CVaR,2017-07-31,2022-06-30,60,0.017749020889939585,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2022-10-31,equal_risk,Equal Risk Contribution,2017-10-31,2022-09-30,60,0.023889570611153054,Optimization terminated successfully
+2022-10-31,mean_variance,Mean-Variance (Max Sharpe),2017-10-31,2022-09-30,60,-0.1707117555302489,Optimization terminated successfully
+2022-10-31,minimum_cvar,Minimum CVaR,2017-10-31,2022-09-30,60,0.02231548278262949,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2023-01-31,equal_risk,Equal Risk Contribution,2018-01-31,2022-12-31,60,0.023833406260090596,Optimization terminated successfully
+2023-01-31,mean_variance,Mean-Variance (Max Sharpe),2018-01-31,2022-12-31,60,-0.18284565450481735,Optimization terminated successfully
+2023-01-31,minimum_cvar,Minimum CVaR,2018-01-31,2022-12-31,60,0.02231548278262949,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2023-04-30,equal_risk,Equal Risk Contribution,2018-04-30,2023-03-31,60,0.02341508494742601,Optimization terminated successfully
+2023-04-30,mean_variance,Mean-Variance (Max Sharpe),2018-04-30,2023-03-31,60,-0.20768457760569412,Optimization terminated successfully
+2023-04-30,minimum_cvar,Minimum CVaR,2018-04-30,2023-03-31,60,0.022671395203402868,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2023-07-31,equal_risk,Equal Risk Contribution,2018-07-31,2023-06-30,60,0.023422476987158096,Optimization terminated successfully
+2023-07-31,mean_variance,Mean-Variance (Max Sharpe),2018-07-31,2023-06-30,60,-0.22280199797695924,Optimization terminated successfully
+2023-07-31,minimum_cvar,Minimum CVaR,2018-07-31,2023-06-30,60,0.022671395203402868,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2023-10-31,equal_risk,Equal Risk Contribution,2018-10-31,2023-09-30,60,0.023874212735902796,Optimization terminated successfully
+2023-10-31,mean_variance,Mean-Variance (Max Sharpe),2018-10-31,2023-09-30,60,-0.19344774378686874,Optimization terminated successfully
+2023-10-31,minimum_cvar,Minimum CVaR,2018-10-31,2023-09-30,60,0.022671395203402913,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2024-01-31,equal_risk,Equal Risk Contribution,2019-01-31,2023-12-31,60,0.022879928053766603,Optimization terminated successfully
+2024-01-31,mean_variance,Mean-Variance (Max Sharpe),2019-01-31,2023-12-31,60,-0.253791244798785,Optimization terminated successfully
+2024-01-31,minimum_cvar,Minimum CVaR,2019-01-31,2023-12-31,60,0.02267139520340288,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2024-04-30,equal_risk,Equal Risk Contribution,2019-04-30,2024-03-31,60,0.022782993293737418,Optimization terminated successfully
+2024-04-30,mean_variance,Mean-Variance (Max Sharpe),2019-04-30,2024-03-31,60,-0.2566112943486532,Optimization terminated successfully
+2024-04-30,minimum_cvar,Minimum CVaR,2019-04-30,2024-03-31,60,0.02267139520340287,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2024-07-31,equal_risk,Equal Risk Contribution,2019-07-31,2024-06-30,60,0.022754800130921266,Optimization terminated successfully
+2024-07-31,mean_variance,Mean-Variance (Max Sharpe),2019-07-31,2024-06-30,60,-0.2503975124011495,Optimization terminated successfully
+2024-07-31,minimum_cvar,Minimum CVaR,2019-07-31,2024-06-30,60,0.02267139520340287,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2024-10-31,equal_risk,Equal Risk Contribution,2019-10-31,2024-09-30,60,0.02190981889191285,Optimization terminated successfully
+2024-10-31,mean_variance,Mean-Variance (Max Sharpe),2019-10-31,2024-09-30,60,-0.2715184594237628,Optimization terminated successfully
+2024-10-31,minimum_cvar,Minimum CVaR,2019-10-31,2024-09-30,60,0.02267139520340285,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2025-01-31,equal_risk,Equal Risk Contribution,2020-01-31,2024-12-31,60,0.022336402936483243,Optimization terminated successfully
+2025-01-31,mean_variance,Mean-Variance (Max Sharpe),2020-01-31,2024-12-31,60,-0.2468498034353897,Optimization terminated successfully
+2025-01-31,minimum_cvar,Minimum CVaR,2020-01-31,2024-12-31,60,0.02267139520340285,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2025-04-30,equal_risk,Equal Risk Contribution,2020-04-30,2025-03-31,60,0.022159143259792534,Optimization terminated successfully
+2025-04-30,mean_variance,Mean-Variance (Max Sharpe),2020-04-30,2025-03-31,60,-0.328901751241512,Optimization terminated successfully
+2025-04-30,minimum_cvar,Minimum CVaR,2020-04-30,2025-03-31,60,0.022671395203402767,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2025-07-31,equal_risk,Equal Risk Contribution,2020-07-31,2025-06-30,60,0.021162816507249698,Optimization terminated successfully
+2025-07-31,mean_variance,Mean-Variance (Max Sharpe),2020-07-31,2025-06-30,60,-0.30297123470592174,Optimization terminated successfully
+2025-07-31,minimum_cvar,Minimum CVaR,2020-07-31,2025-06-30,60,0.022671395203402885,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+2025-10-31,equal_risk,Equal Risk Contribution,2020-10-31,2025-09-30,60,0.020829738916812175,Optimization terminated successfully
+2025-10-31,mean_variance,Mean-Variance (Max Sharpe),2020-10-31,2025-09-30,60,-0.32569641554480766,Optimization terminated successfully
+2025-10-31,minimum_cvar,Minimum CVaR,2020-10-31,2025-09-30,60,0.02267139520340287,Optimization terminated successfully. (HiGHS Status 7: Optimal)
