@@ -1,0 +1,26 @@
+Beyond the 60/40 Portfolio
+Data Retrieval Log
+
+Retrieval time in UTC: 2026-07-17T02:28:20.973944+00:00
+Research start date: 2007-01-01
+Research end date: 2025-12-31
+
+ETF tickers:
+SPY, VEA, IEF, LQD, VNQ, GLD, BIL
+
+FRED series:
+CPIAUCSL, FEDFUNDS, USREC
+
+Python packages:
+pandas: 3.0.3
+yfinance: 1.5.1
+pandas-datareader: 0.11.1
+
+Raw ETF file:
+data/raw/etf_daily_adjusted_prices.csv
+
+Raw FRED file:
+data/raw/fred_macroeconomic_data.csv
+
+Processed monthly file:
+data/processed/monthly_research_dataset.csv
